@@ -1,4 +1,4 @@
-package ru.anafro.patterns.creational;
+package ru.anafro.patterns.creational.factory;
 
 import ru.anafro.entities.Animal;
 import ru.anafro.entities.Cat;

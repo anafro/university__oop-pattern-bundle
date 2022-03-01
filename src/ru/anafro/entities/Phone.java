@@ -1,7 +1,7 @@
 package ru.anafro.entities;
 
-import ru.anafro.patterns.behavioral.PhoneState;
-import ru.anafro.patterns.behavioral.phonestates.PhoneSwitchedOffState;
+import ru.anafro.patterns.behavioral.state.PhoneState;
+import ru.anafro.patterns.behavioral.state.PhoneSwitchedOffState;
 
 public class Phone {
     private PhoneState state = new PhoneSwitchedOffState(this);

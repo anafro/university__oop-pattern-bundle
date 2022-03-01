@@ -1,4 +1,4 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.proxy;
 
 import ru.anafro.entities.Bank;
 import ru.anafro.entities.RealBank;

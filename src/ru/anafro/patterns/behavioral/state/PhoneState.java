@@ -1,4 +1,4 @@
-package ru.anafro.patterns.behavioral;
+package ru.anafro.patterns.behavioral.state;
 
 import ru.anafro.entities.Phone;
 

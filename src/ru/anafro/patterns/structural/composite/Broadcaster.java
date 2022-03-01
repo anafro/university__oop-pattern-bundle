@@ -1,4 +1,4 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.composite;
 
 import ru.anafro.entities.User;
 

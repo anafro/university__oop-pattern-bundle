@@ -1,4 +1,4 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.facade;
 
 import ru.anafro.entities.FileReader;
 import ru.anafro.entities.UrlReader;

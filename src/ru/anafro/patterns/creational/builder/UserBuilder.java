@@ -1,4 +1,4 @@
-package ru.anafro.patterns.creational;
+package ru.anafro.patterns.creational.builder;
 
 import ru.anafro.entities.User;
 

@@ -1,4 +1,4 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.decorator;
 
 /**
  * Decorator

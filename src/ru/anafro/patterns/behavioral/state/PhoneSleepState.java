@@ -1,7 +1,6 @@
-package ru.anafro.patterns.behavioral.phonestates;
+package ru.anafro.patterns.behavioral.state;
 
 import ru.anafro.entities.Phone;
-import ru.anafro.patterns.behavioral.PhoneState;
 
 public class PhoneSleepState extends PhoneState {
     public PhoneSleepState(Phone phone) {

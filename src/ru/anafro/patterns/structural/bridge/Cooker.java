@@ -1,7 +1,7 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.bridge;
 
 import ru.anafro.entities.Microwave;
-import ru.anafro.patterns.creational.Food;
+import ru.anafro.patterns.creational.prototype.Food;
 
 /**
  * Bridge

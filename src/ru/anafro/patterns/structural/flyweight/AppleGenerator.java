@@ -1,4 +1,4 @@
-package ru.anafro.patterns.structural;
+package ru.anafro.patterns.structural.flyweight;
 
 import ru.anafro.entities.Apple;
 

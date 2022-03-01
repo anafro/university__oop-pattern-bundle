@@ -1,6 +1,6 @@
 package ru.anafro.entities;
 
-import ru.anafro.patterns.creational.Food;
+import ru.anafro.patterns.creational.prototype.Food;
 
 public class Microwave {
     private Food content = null;
