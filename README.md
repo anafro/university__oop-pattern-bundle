@@ -1,6 +1,6 @@
 [![This is a repository for a university task! I am kindly asking you not to review it until it will be converted to a standalone project, if it’ll.](https://github.com/anafro/anafro/blob/main/Banners/Github.Warning.University.png?raw=true "Click to open the list of the portfolio projects")](https://github.com/anafro/anafro/blob/main/Pages/portfolio-project-list.md)
 
-# Описание реализаций паттернов для Константина
+# 🎓 Описание реализаций паттернов для Константина
 
 * Порождающие:
   * Singleton: класс Application (тут должно быть всё понятно)
